@@ -2,7 +2,7 @@
 Adding typescript functions and link to user interface elements.
 
 ### Description:
-This sample shows how to enhance the UI with functions written in typescript.
+This sample shows how to enhance the UI with functions written in TypeScript.
 The source for the functions are located in the src folder of the pages component.
 The function itself is defined in the index.ts file.
 This function can for example be used in conjunction with UI elements by referencing the function at an event of the UI element.
